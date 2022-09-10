@@ -1,0 +1,24 @@
+/* импорт глобальных стилей и шрифта*/
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+
+/* импорт стилей body-root */
+@import url(../blocks/body-root/body-root.css);
+
+/* импорт стилей header */
+
+
+/* импорт стилей content */
+
+
+/* импорт стилей user */
+
+
+/* импорт стилей cards */
+
+
+/* импорт стилей footer */
+
+
+/* импорт стилей popup */
+
