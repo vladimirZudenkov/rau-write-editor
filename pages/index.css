@@ -35,6 +35,16 @@
 
 /* импорт стилей content */
 
+/* импорт стилей autor */
+@import url(../blocks/autor/autor.css);
+@import url(../blocks/autor/__about/autor__about.css);
+@import url(../blocks/autor/__avatar/autor__avatar.css);
+@import url(../blocks/autor/__container/autor__container.css);
+@import url(../blocks/autor/__paragraph-container/autor__paragraph-container.css);
+@import url(../blocks/autor/__paragraph/autor__paragraph-container.css);
+@import url(../blocks/autor/__span-accent/autor__span-accent.css);
+@import url(../blocks/autor/__spline/autor__spline.css);
+
 /* импорт стилей user */
 
 /* импорт стилей cards */
