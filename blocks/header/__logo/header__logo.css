@@ -1,5 +1,9 @@
-.header__logo {
-  background-image: url("../../../images/mainLogo.png");
-  width: 205px;
-  height: 115px;
+@media screen and (max-width: 375px) {
+  .header__logo {
+    background-image: url("../../../images/mainLogo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 96px;
+    height: 54px;
+  }
 }

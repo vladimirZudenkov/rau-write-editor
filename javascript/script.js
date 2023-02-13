@@ -1,4 +1,4 @@
-let openButton = document.querySelector('.user__edit-profile'),
+/*let openButton = document.querySelector('.user__edit-profile'),
     overlay = document.querySelector('.popup'),
     closeButton = overlay.querySelector('.popup__button-close'),
     autor = document.querySelector('.user__title'),
@@ -28,3 +28,4 @@ function handleFormSubmit(evt) {
 openButton.addEventListener('click', openModal);
 closeButton.addEventListener('click', closeModal);
 formElement.addEventListener('submit', handleFormSubmit);
+*/

@@ -1,7 +1,13 @@
+@media screen and (max-width: 375px) {
+  .body-root {
+    max-width: 320px;
+  }
+}
+
 .body-root {
-  background: #A4A393;
+  background: #a4a393;
   margin: 0 auto;
-  font-family: 'Inter', ‘Arial’, sans-serif;
+  font-family: "Inter", ‘Arial’, sans-serif;
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
@@ -9,5 +15,4 @@
   max-width: 1440px;
   min-width: 320px;
   width: 100%;
-
 }
