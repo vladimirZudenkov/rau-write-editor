@@ -1,0 +1,6 @@
+.navigation-dots {
+  min-height: 8px;
+  display: grid;
+  grid-template-columns: 8px auto;
+  column-gap: 4px;
+}

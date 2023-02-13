@@ -7,7 +7,8 @@
 .body-root {
   background: #a4a393;
   margin: 0 auto;
-  font-family: "Inter", ‘Arial’, sans-serif;
+  font-family: "Montserrat", ‘Arial’, sans-serif;
+  font-style: normal;
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
