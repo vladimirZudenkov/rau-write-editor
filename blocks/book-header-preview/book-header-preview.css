@@ -1,5 +1,5 @@
 @media screen and (max-width: 375px) {
-  .book-header-prevew {
+  .book-header-preview {
     display: flex;
     flex-direction: column;
     align-items: center;

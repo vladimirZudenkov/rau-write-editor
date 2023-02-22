@@ -22,11 +22,11 @@
 @import url(../blocks/header/__social/header__social.css);
 @import url(../blocks/header/__container/header__container.css);
 
-/* book-header-prevew */
-@import url(../blocks/book-header-prevew/book-header-prevew.css);
-@import url(../blocks/book-header-prevew/__title/book-header-prevew__title.css);
-@import url(../blocks/book-header-prevew/book-header-prevew__button/book-header-prevew__button.css);
-@import url(../blocks/book-header-prevew/__about/book-header-prevew__about.css);
+/* book-header-preview */
+@import url(../blocks/book-header-preview/book-header-preview.css);
+@import url(../blocks/book-header-preview/__title/book-header-preview__title.css);
+@import url(../blocks/book-header-preview/book-header-preview__button/book-header-preview__button.css);
+@import url(../blocks/book-header-preview/__about/book-header-preview__about.css);
 
 /* navigation-dots */
 @import url(../blocks/navigation-dots/navigation-dots.css);
@@ -40,8 +40,9 @@
 @import url(../blocks/autor/__about/autor__about.css);
 @import url(../blocks/autor/__avatar/autor__avatar.css);
 @import url(../blocks/autor/__container/autor__container.css);
+@import url(../blocks/autor/__paragraph-wrapper/autor__paragraph-wrapper.css);
 @import url(../blocks/autor/__paragraph-container/autor__paragraph-container.css);
-@import url(../blocks/autor/__paragraph/autor__paragraph-container.css);
+@import url(../blocks/autor/__paragraph/autor__paragraph.css);
 @import url(../blocks/autor/__span-accent/autor__span-accent.css);
 @import url(../blocks/autor/__spline/autor__spline.css);
 

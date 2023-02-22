@@ -1,16 +1,14 @@
 @media screen and (max-width: 375px) {
     .autor {
       width: 100%;
-      background: linear-gradient(0deg, rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)),
-        url("./../../images/headerbg.jpg");
       background-size: contain;
-      background-repeat: round;
+      background: url("./../../images/authorbg.jpg");
     }
   }
-  
+
   .autor {
     display: flex;
     flex-direction: column;
     align-items: center;
   }
-  
+

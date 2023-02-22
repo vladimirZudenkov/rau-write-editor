@@ -1,0 +1,8 @@
+@media screen and (max-width: 375px) {
+  .autor__paragraph-wrapper {
+    max-width: 280px;
+    margin-bottom: 20px;
+
+
+  }
+}

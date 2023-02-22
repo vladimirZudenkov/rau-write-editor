@@ -1,0 +1,20 @@
+@media screen and (max-width: 375px) {
+  .autor__about {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: "Mason Chronicles", sans-serif;
+    font-weight: 500;
+    text-align: center;
+    color: #070504;
+    max-width: 320px;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-transform: uppercase;
+  }
+}
+
+
+
+
